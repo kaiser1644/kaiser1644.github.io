@@ -30,7 +30,7 @@ body {
 .main {
     margin-left: 30%; /* Same as the width of the sidenav */
     padding-left: 50px;
-    width: 40%;
+    width: 30%;
 }
 
 @media screen and (max-height: 450px) {
@@ -39,9 +39,6 @@ body {
 }
 
 /* Text styles */
-hr {
-    width: 80%;
-}
 
 .name {
     font-size: 30px;
